@@ -1,0 +1,7 @@
+*.o
+*.a
+*.log
+TTTest
+Benchmark
+
+nbproject
